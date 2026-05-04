@@ -1,1 +1,1 @@
-# Customer-Segment-Intelligence-Pipleline
+# Customer-Segment-Intelligence-Pipeline
